@@ -1,0 +1,33 @@
+Fundamentos do Desenvolvimento Mobile com React Native; 
+  - Ajuda a criar aplicações nativas e multiplataform; 
+  - Podemos manipular cadas plataforma de uma maneira diferente, 
+  entre android e ios; 
+
+Características do React Native 
+  - Fast Refresh - dá um feedback quase instântaneo das alterações; 
+  - Uma base de código para Android e IOS; 
+  - Possui uma comunidade com inúmeras bibliotecas e UI frameworks; 
+
+Desenvolvimento multiplataform com React Native
+  - O código javascript é empacotado em um bundle.js e gera um JS Core que faz 
+  com que cada plataforma entenda o código e renderize interfaces nativas; 
+  - Utilizamos JSX para desenvoler com React Native; 
+  - Os componentes são renderizados com elementos nativos do Android ou IOS
+  - O react native é baseado em componentização; 
+  - O react native tem os core components ( já vem direto ) e vários componentes
+  que são disponibilizados pela comunidade.
+
+O que é o Expo 
+  - Ajuda a emular o aplicativo no próprio celular do usuário; 
+  - O expo possui várias funcionalidades que já vem prontas; 
+  - expo init gameplay - Cria um novo projeto
+  - alt + espaço -> Selecionar always on top para deixar o emulador 
+  sempre na frente;
+  - O react native disponibiliza componentes nativos; Ele usa o react para fun-
+  cionar; 
+
+Conceitos básicos
+  - No react, podemos fazer a tela reazir a estados da nossa aplicação; 
+  - No Expo tem as medidas da splash screen e dos icones adaptivos; 
+  - O prototipo pode ser duplicado para para a minha conta no figma; 
+  - Centralizar as cores em um único lugar; 
